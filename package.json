@@ -1,0 +1,23 @@
+{
+  "name": "text-analyzer",
+  "version": "1.0.0",
+  "description": "self explanatory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananiya311/text-analyzer.git"
+  },
+  "author": "ananiy muluken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananiya311/text-analyzer/issues"
+  },
+  "homepage": "https://github.com/ananiya311/text-analyzer#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
